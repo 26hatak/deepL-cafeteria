@@ -23,10 +23,13 @@ lunch2025 <- kiosk2025 %>% filter(TransactionAmount == 800)
 lunch_ops <- unique(lunch2025$ProductName)
 
 lunch_df <- data.frame()
+count = 0
 
 for (i in 1:nrow(df)){
   for (j in 1:nrow(lunch_ops)){
-    
+    if (df$ProductName[i] == lunch_ops[j]){
+      
+    }
   }
 }
 
