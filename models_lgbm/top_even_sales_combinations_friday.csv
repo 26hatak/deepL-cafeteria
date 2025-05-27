@@ -1,0 +1,16 @@
+Dish1,Dish2,Pred_Count1,Pred_Count2,Total_Pair_Sales,Evenness_Score
+Chili Con Carne,Pasta,224,180,404,0.10837019239950872
+Chili Con Carne,Hayashi Rice,225,181,407,0.10862108454660861
+Beef & Pork Tacos,Karaage-don,220,177,397,0.10928956761378505
+Roast Pork,Tonkatsu,214,171,384,0.11220446367459318
+Chili Con Carne,Tonkatsu,209,167,376,0.11246605955944695
+Beef & Pork Tacos,Chicken Tacos,226,180,405,0.1133548514487875
+Beef & Cheese Pie,Tonkatsu,214,170,384,0.1137002809113636
+Gyudon,Karaage-don,233,185,418,0.11454012749079394
+Chicken Stir Fry,Pasta,219,174,392,0.11455498384070104
+Beef & Cheese Pie,Cajun Chicken,224,178,401,0.11475227809988413
+Beef & Cheese Pie,Chicken Curry,224,178,401,0.11475227809988413
+Chicken Shawarma,Miso Chicken,224,178,401,0.11475227809988413
+Chicken Stir Fry,Hayashi Rice,220,175,395,0.11477817984577703
+Buta Don,Chicken Burger,223,177,401,0.11540563214332185
+Cubano Sandwich,Pasta,219,174,393,0.11565234254929826
