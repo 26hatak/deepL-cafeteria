@@ -1,0 +1,45 @@
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.m4v
+
+# macOS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+deepL-Caf/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (optional - uncomment if you don't want large data files)
+# *.csv
+# *.pkl
+# *.json
+# *.xlsx
+
+# Model files (optional - uncomment if models are too large)
+# *.pkl
+# *.joblib
+# *.h5
+# *.pb
